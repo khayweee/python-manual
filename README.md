@@ -6,3 +6,6 @@ click [here](https://nbviewer.jupyter.org/github/khayweee/python-manual/blob/mas
 
 ## Contribution and Suggestions
 Suggestions and contributions are most welcomed! I welcome any pull-request to contribute to this notebook. For major changes, please open an issue first to discuss what you would like to change.
+
+## References
+1. https://www.statsmodels.org/devel/example_formulas.html
