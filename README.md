@@ -1,5 +1,5 @@
 # python-manual
-Python Manual for Data Science. This Notebook will provide basic framework on the use of common api to conduct data analyst.
+Python Manual for Data Science. This Notebook will provide basic framework on the use of common api to conduct data analyses.
 
 ## Viewing Notebook
 click [here](https://nbviewer.jupyter.org/github/khayweee/python-manual/blob/master/Python%20Cheatsheet.ipynb) to view notebook on nbviewer
