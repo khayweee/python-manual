@@ -3,7 +3,7 @@ Python Manual for Data Science. This Notebook will provide basic framework on th
 
 ## Viewing Notebook
 click [here](https://nbviewer.jupyter.org/github/khayweee/python-manual/blob/master/Python%20Cheatsheet.ipynb) to view notebook on nbviewer
-
+- an interactive platform to view .ipynb files 
 ## Contribution and Suggestions
 Suggestions and contributions are most welcomed! I welcome any pull-request to contribute to this notebook. For major changes, please open an issue first to discuss what you would like to change.
 
